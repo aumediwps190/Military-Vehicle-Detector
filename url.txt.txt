@@ -1,0 +1,4 @@
+https://huggingface.co/spaces/aumediwps190/Military-Vehicle-Detector1
+
+link model (just in case): 
+https://drive.google.com/drive/folders/1BdW_gQUwKhJ2QC-pyNoe1JXfVOXA0Zya?usp=sharing
